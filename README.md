@@ -10,13 +10,22 @@ Whatasapp: (92) 994937133
 
 ## Tecnologias que  utilizo:
 <div style = "display: inline_block"> <br/>
-  <img align = "center" alt = "html5" src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-    <img align = "center" alt = "css" src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+   <img align = "center" alt = "html5" src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+   <img align = "center" alt = "css" src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
    <img align = "center" alt = "C" src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-   <img align = "center" alt = "Phynton" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-   <img align = "center" jquery = "C" src = "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-
-
+     <img align = "center" alt = "Phynton" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+   <img align = "center" alt = "Java" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+   <img align = "center" alt = "Jquery" src = "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img align = "center" alt = "MySQL" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   </div>
   
-  Apaixonado em adquirir cohecimento na aréa de tecnológica através da programação.
+  Apaixonado em adquirir cohecimento na aréa de tecnológica através da programação. <br/>
+  
+  ## Informações sobre o Projeto MEDCENTER:
+     Aplicativo Android que visa auxiliar a area da saude, desenvolvido no Android Studio, em linguaguem JAVA juntamente com um banco de dados não relacional (FIREBASE).
+
+### --> Consulta a vacinas: em dia e pedentes, mostrando sua disponibildade em UBS. <br/>
+### --> Consulta a remedios, mostrando sua disponibildade em UBS. <br/>
+### -->  Consulta por unidade de saude no mapa. <br/>
+### --> Agendamento de consultas medicas. <br/>
+### --> Consulta via telechamada. <br/>
