@@ -22,7 +22,7 @@ Whatasapp: (92) 994937133
   Apaixonado em adquirir cohecimento na aréa de tecnológica através da programação. <br/>
   
   ## Informações sobre o Projeto MEDCENTER:
-     Aplicativo Android que visa auxiliar a area da saúde, desenvolvido no Android Studio, em linguaguem JAVA juntamente em um banco de dados não relacional (FIREBASE).
+     Aplicativo Android que visa auxiliar a área da saúde, desenvolvido no Android Studio, em linguaguem JAVA juntamente em um banco de dados não relacional (FIREBASE).
 
 ### --> Consulta à vacinas: em dia e pedentes, mostrando sua disponibildade em UBSs. <br/>
 ### --> Consulta a remedios, mostrando sua disponibildade em UBSs. <br/>
